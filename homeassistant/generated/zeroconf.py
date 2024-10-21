@@ -635,7 +635,7 @@ ZEROCONF = {
     ],
     "_mass._tcp.local.": [
         {
-            "domain": "mass",
+            "domain": "music_assistant",
         },
     ],
     "_matter._tcp.local.": [
